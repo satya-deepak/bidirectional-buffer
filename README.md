@@ -1,7 +1,7 @@
 # bidirectional-buffer with non-inverting CMOS input
 This project has files needed to design and implement GPIO
 
-steps to install NI multism on windows:
+# steps to install NI multism on windows:
 1) go to the following link https://www.malavida.com/en/soft/ni-multisim/#gref 
 2) click the download button 
 3) open the .exe file from the downloads
@@ -9,7 +9,7 @@ steps to install NI multism on windows:
 5) After the files are unzipped click on install NI circuit design suite 14.0 and continue the installation process
 6) Now open NI multism and continue the simualtion
 
-Getting strted with simulation:
+# Getting strted with simulation:
 1) Go to place->component->all families->nmos to get the component NMOS
 2) similarly import PMOS, inverter(NOT gate), digital clock to give inputs to both buffers connected in bidirectional fashion
 3) import digital constant which can used as an enable pin connecting it directly to source terminal of the PMOS
@@ -19,11 +19,14 @@ Getting strted with simulation:
 7) Make a simulation of the GPIO circuit as shown and run it to get the output graphs
 8) The graphs shows us the characteristics of the GPIO pin which is used to select the input or output mode
 
-BRIEF DESCRIPTION OF GPIO (General Purpose Input/Output)
+# BRIEF DESCRIPTION OF GPIO (General Purpose Input/Output)
 1) The GPIO pin is controlled by the user to get a desired mode of the whole chip
 2) The input/output mode can be selected by giving the enable pin to logic high or low
 3) The output and input buffers are formed by combining two CMOS inverters 
 4) Both the buffers are connected in bidirectional fashion which allows the data to flow either of the direction
 
-
-
+# CONTACT INFORMATION:
+1) Nalla Gowthami,Electronics and instruemntation engineering, NIT Rourkela, gowthaminalla1821@gmail.com
+2) Kunal Gosh Director, Vsd corp Pvt.Ltd, kunalpgosh@gmail.com
+3) Phillip Guhring, Software architect at Libresilicon Association pg@futureware.at
+4) Dr.Gaurav Trivedi Co-principal investigator, EICT academy, IIT Guwahati 
