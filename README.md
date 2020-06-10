@@ -13,5 +13,7 @@ Getting strted with simulation:
 1) Go to place->component->all families->nmos to get the component NMOS
 2) similarly import PMOS, inverter(NOT gate), digital clock to give inputs to both buffers connected in bidirectional fashion
 3) import digital constant which can used as an enable pin connecting it directly to source terminal of the PMOS
-4)place 5 voltage probes (place->probe->voltage) as shown in the 
-5)
+4) place 5 voltage probes (place->probe->voltage) as shown in the GPIO.ms14 file
+5) CMOS inverter is constructed using a PMOS and a NMOS
+6) Two CMOS inveters are connected to get a buffer which is non inveting
+7) 
