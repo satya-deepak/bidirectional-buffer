@@ -16,4 +16,7 @@ Getting strted with simulation:
 4) place 5 voltage probes (place->probe->voltage) as shown in the GPIO.ms14 file
 5) CMOS inverter is constructed using a PMOS and a NMOS
 6) Two CMOS inveters are connected to get a buffer which is non inveting
-7) 
+7) Make a simulation of the GPIO circuit as shown and run it to get the output graphs
+8) The graphs shows us the characteristics of the GPIO pin which is used to select the input or output mode
+
+
