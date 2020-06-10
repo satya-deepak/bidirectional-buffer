@@ -19,7 +19,7 @@ Getting strted with simulation:
 7) Make a simulation of the GPIO circuit as shown and run it to get the output graphs
 8) The graphs shows us the characteristics of the GPIO pin which is used to select the input or output mode
 
-BRIEF DESCRIPTION OF GPIO
+BRIEF DESCRIPTION OF GPIO (General Purpose Input/Output)
 1) The GPIO pin is controlled by the user to get a desired mode of the whole chip
 2) The input/output mode can be selected by giving the enable pin to logic high or low
 3) The output and input buffers are formed by combining two CMOS inverters 
