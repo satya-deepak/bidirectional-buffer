@@ -25,8 +25,8 @@ This project has files needed to design and implement GPIO
 3) The output and input buffers are formed by combining two CMOS inverters 
 4) Both the buffers are connected in a bidirectional fashion which allows the data to flow either of the direction
 
-# CONTACT INFORMATION:
+# Contact information:
 1) Nalla Gowthami, Electronics and instrumentation engineering, NIT Rourkela, gowthaminalla1821@gmail.com
 2) Kunal Gosh Director, Vsd Corp Pvt.Ltd, kunalpgosh@gmail.com
 3) Phillip Guhring, Software architect at Libresilicon Association pg@futureware.at
-4) Dr.Gaurav Trivedi Co-principal investigator, EICT academy, IIT Guwahati 
+4) Dr.Gaurav Trivedi Co-principal investigator, EICT academy, and associative proffessor, EEE depatement, IIT Guwahati, trivedi@iitg.ac.in
