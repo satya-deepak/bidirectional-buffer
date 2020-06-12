@@ -2,12 +2,18 @@
 This project has files needed to design and implement GPIO
 
 # steps to install NI Multism on windows:
-1) go to the following link https://www.malavida.com/en/soft/ni-multisim/#gref 
-2) click the download button 
-3) open the .exe file from the downloads
-4) click ok in the dialog box opened and unzip the file to a particular destination on the PC
-5) After the files are unzipped click on install NI circuit design suite 14.0 and continue the installation process
-6) Now open NI multism and continue the simulation
+Download NI Multisim 14.1 from https://softfamous.com/ni-multisim/download/
+Click on Download from ni.com -> GET STUDENT DOWNLOAD
+
+
+
+
+
+
+Unzip the compressed folder and save in preferred folder.
+Open setup.exe file and install.
+**Note: NI Multisim can be downloaded only on windows OS. For MAC OS or LINUX users, Windows OS have to be installed using virtual machine or can use online MULTISIM LIVE https://www.multisim.com/
+
 
 # Getting started with simulation:
 1) Go to place->component->all families->nmos to get the component NMOS
